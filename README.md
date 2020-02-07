@@ -2,7 +2,7 @@
 
 ## Our first collaboration and work in team.
 
-Our issue is to write the versre of T.Shevchenko "Topolya" line by line.
+Our issue is to write the verse of T.Shevchenko called "Topolya" line by line.
 
 ## Our DreamTeam and its members
 1. Anna Kapusta.
