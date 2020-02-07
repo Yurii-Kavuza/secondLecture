@@ -7,5 +7,5 @@ Our issue is to write the verse of T.Shevchenko called "Topolya" line by line.
 ## Our DreamTeam and its members
 1. Anna Kapusta.
 2. Julia Tokan.
-3. Kate Koop.
+3. Kateryna Koop.
 4. Yurii Kavuza.
