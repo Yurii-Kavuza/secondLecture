@@ -1,5 +1,5 @@
 # Intro to Git
-![](https://git-scm.com/)
+![](https://git-scm.com/images/logo@2x.png)
 ## Our first collaboration and work in team.
 
 Our issue is to write the verse of T.Shevchenko called "Topolya" line by line.
