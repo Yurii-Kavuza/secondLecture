@@ -1,4 +1,4 @@
-# Intro to Git
+# Intro to
 ![](https://git-scm.com/images/logo@2x.png)
 ## Our first collaboration and work in team.
 
